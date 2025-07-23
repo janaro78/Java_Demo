@@ -16,8 +16,8 @@ import java.text.ParseException;
 public class Login extends SuperPlantilla {
 
     public static final String URL = "jdbc:mysql://PMYSQL171.dns-servicio.com:3306/10029755_21GIIN";
-    public static final String sqlUSER = "21giin";
-    public static final String sqlPASSWORD = "AnFYE3q4FQxs6ka";
+    public static final String sqlUSER = "*****";
+    public static final String sqlPASSWORD = "*****";
 
     private JTextField user;
     private JPasswordField pass;
